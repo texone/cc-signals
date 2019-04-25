@@ -1,0 +1,12 @@
+{
+    "name": "cc.creativecomputing.math.signal",
+    "displayName": "creative computing signals",
+    "version": "0.0.1",
+    "unity": "2018.1",
+    "description": "Unity package to generate noise and other signals procedurally.",
+    "keywords": [
+        "maths",
+        "unity"
+    ],
+    "category": "Unity"
+}
